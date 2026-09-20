@@ -1,0 +1,25 @@
+{
+  "id": "last-horizon-worldbook",
+  "title": "The Last Horizon — Worldbook & Carte stellaire",
+  "description": "Ouvre le Worldbook de The Last Horizon (carte stellaire interactive, fiches des mondes, Novastella) dans une fenêtre Foundry.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Bastien"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/worldbook.css"
+  ],
+  "languages": [],
+  "manifest": "https://github.com/blendbastien/worldbook/releases/latest/download/module.json",
+  "download": "https://github.com/blendbastien/worldbook/releases/latest/download/last-horizon-worldbook.zip",
+  "url": "https://github.com/blendbastien/worldbook"
+}

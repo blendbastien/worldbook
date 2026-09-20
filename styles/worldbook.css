@@ -1,0 +1,4 @@
+.lh-frame .window-content { padding: 0; overflow: hidden; background: #050812; }
+.lh-frame .lh-iframe { width: 100%; height: 100%; border: 0; display: block; background: #050812; }
+.lh-wb-btn { margin: 4px 0; width: 100%; background: linear-gradient(90deg,#0a1024,#12203f); color: #dfe6ff; border: 1px solid #3aa0ff88; border-radius: 4px; padding: 5px 8px; font-size: 12px; letter-spacing: .06em; cursor: pointer; }
+.lh-wb-btn:hover { border-color: #7ff6ff; box-shadow: 0 0 10px #7ff6ff55; }
