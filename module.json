@@ -1,8 +1,8 @@
 {
   "id": "last-horizon-worldbook",
-  "title": "The Last Horizon — Worldbook & Carte stellaire",
-  "description": "Ouvre le Worldbook de The Last Horizon (carte stellaire interactive, fiches des mondes, Novastella) dans une fenêtre Foundry.",
-  "version": "1.0.0",
+  "title": "Worldbook - Manhwa",
+  "description": "Ouvre le Worldbook de The Last Horizon (Atlas des mondes et fiches des neuf mondes) dans une fenêtre Foundry. La carte stellaire est désormais le module « Carte Stellaire Manhwa ».",
+  "version": "1.9.0",
   "authors": [
     {
       "name": "Bastien"
